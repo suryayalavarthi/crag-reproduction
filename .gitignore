@@ -52,5 +52,12 @@ missfont.log
 # Zip archives
 *.zip
 
-# Old PDFs (keep only paper/main.pdf)
+# Old PDFs
 CRAG_Reproduction_Paper-4.pdf
+CRAG.pdf
+
+# Screenshots
+Screenshot*.png
+
+# arXiv submission temp files
+/tmp/arxiv_flat/
