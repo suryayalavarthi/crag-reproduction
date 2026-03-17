@@ -1,0 +1,56 @@
+# Model weights
+models/
+
+# Large result JSON files
+crag_results.json
+rag_baseline_results.json
+ambiguous_wiki_results.json
+arc_results.json
+popqa_full_gt.json
+ambiguous_with_wiki_v2.json
+ambiguous_with_wiki_v1.json
+ambiguous_with_wiki.json
+ambiguous_with_wiki_v2_clean.json
+
+# Checkpoint files
+*checkpoint*.json
+arc_wiki_checkpoint.json
+
+# Intermediate data files
+arc_challenge_test.json
+arc_challenge_with_docs.json
+error_analysis.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.env
+
+# macOS
+.DS_Store
+
+# SHAP pickle files (large)
+*.pkl
+
+# Kaggle outputs
+kaggle_outputs/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+missfont.log
+
+# Zip archives
+*.zip
+
+# Old PDFs (keep only paper/main.pdf)
+CRAG_Reproduction_Paper-4.pdf
