@@ -1,6 +1,6 @@
 # Open-Source Reproduction and Explainability Analysis of CRAG
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.16169-b31b1b.svg)](https://arxiv.org/abs/2603.16169)
 
 This repository contains the code for our paper:
 
@@ -92,7 +92,7 @@ If you use this work, please cite:
 @article{yalavarthi2026crag,
   title={Open-Source Reproduction and Explainability Analysis of Corrective Retrieval Augmented Generation},
   author={Yalavarthi, Surya Vardhan},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2603.16169},
   year={2026}
 }
 ```
